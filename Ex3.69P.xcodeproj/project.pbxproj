@@ -21,6 +21,7 @@
 		00AC2E86188E0D2500CE959C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00AC2E68188E0D2500CE959C /* UIKit.framework */; };
 		00AC2E8E188E0D2600CE959C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00AC2E8C188E0D2500CE959C /* InfoPlist.strings */; };
 		00AC2E90188E0D2600CE959C /* Ex3_69PTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00AC2E8F188E0D2600CE959C /* Ex3_69PTests.m */; };
+		00AC2E9A188E0F0200CE959C /* girl7.png in Resources */ = {isa = PBXBuildFile; fileRef = 00AC2E99188E0F0200CE959C /* girl7.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		00AC2E8B188E0D2500CE959C /* Ex3.69PTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Ex3.69PTests-Info.plist"; sourceTree = "<group>"; };
 		00AC2E8D188E0D2500CE959C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00AC2E8F188E0D2600CE959C /* Ex3_69PTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Ex3_69PTests.m; sourceTree = "<group>"; };
+		00AC2E99188E0F0200CE959C /* girl7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = girl7.png; path = ../../../../Downloads/girl7.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		00AC2E6A188E0D2500CE959C /* Ex3.69P */ = {
 			isa = PBXGroup;
 			children = (
+				00AC2E99188E0F0200CE959C /* girl7.png */,
 				00AC2E73188E0D2500CE959C /* AppDelegate.h */,
 				00AC2E74188E0D2500CE959C /* AppDelegate.m */,
 				00AC2E76188E0D2500CE959C /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				00AC2E7D188E0D2500CE959C /* Images.xcassets in Resources */,
+				00AC2E9A188E0F0200CE959C /* girl7.png in Resources */,
 				00AC2E6F188E0D2500CE959C /* InfoPlist.strings in Resources */,
 				00AC2E78188E0D2500CE959C /* Main.storyboard in Resources */,
 			);
